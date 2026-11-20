@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Secretos y datos de usuario
+steam_credentials.txt
+*.db
+.env
+.env.*
+
+# Artefactos locales / WinPython / IDE
+.idea/
+.vscode/
+*.iml
+manager.ini
+juego_random.zip
+portable/
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
